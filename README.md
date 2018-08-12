@@ -19,19 +19,19 @@ We have come up with a generic mobile wallet to sign transactions for any kind o
 ## Hypersign-mobile-app
  
  ```
-  https://github.com/vikramIde/votingapp-mobile
+ https://github.com/hypermine-bc/hypersign-mobile
   ```
 
 ## Hypersign-Web3-SDK
  
 ```
-  https://github.com/vikramIde/votingapp-mobile
+  https://github.com/hypermine-bc/hypersign-sdk
   ```
 
 ## adhat-Dapp
  
  ```
-  https://github.com/vikramIde/votingapp-mobile
+  https://github.com/hypermine-bc/training-boilerplate
   ```
 
 ## Contributing

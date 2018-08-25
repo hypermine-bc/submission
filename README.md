@@ -14,7 +14,11 @@
 
 ## Overview
 
-We have come up with a generic mobile wallet to sign transactions for any kind of Dapps(Ethereum,Hyperledger,EOS).
+Since the beginning of the software era; there is an ongoing struggle for eliminating copyright infringement. Associations such as the BSA [Business Software Alliance], WIPO [World Intellectual Property Organization] and laws such as the DMCA [Digital Millennium Copyright Act] amongst others, have been working hard to:
+
+• Control piracy • Promote original content • Reward content creators • Advocate the legitimate trade of pre-owned media
+
+Adhat will solve these challenges by creating a decentralized ecosystem that will allow users to create truly unique and individual content, reward creators for their work and finally allow users to trade pre-owned media between them whilst protecting and rewarding the content creators.
 
 ## Hypersign-mobile-app
  

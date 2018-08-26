@@ -13,7 +13,7 @@
 <!-- tocstop -->
 ## Video
 
-	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b1Be7co1u0A/0.jpg)](https://www.youtube.com/watch?v=b1Be7co1u0A)
+	[![Watch the video](https://img.youtube.com/vi/b1Be7co1u0A/0.jpg)](https://www.youtube.com/watch?v=b1Be7co1u0A)
 	
 ## Overview
 
